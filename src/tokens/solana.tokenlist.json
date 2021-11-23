@@ -30355,6 +30355,25 @@
         "twitter": "https://twitter.com/Imwarmsmile"
       }
     },
+	{
+      "chainId": 101,
+      "address": "7rYEmsUK6R3H6gdTGdPmaf4jots97eciNJ5hqu7iELyQ",
+      "symbol": "ETHM",
+      "name": "Mother Earth Coin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rYEmsUK6R3H6gdTGdPmaf4jots97eciNJ5hqu7iELyQ/logo.png",
+      "tags": [
+        "utility-token",
+        "aggregator",
+        "DEX",
+        "tool",
+        "staking-coin",
+        "Exchange"
+      ],
+ "extensions": {
+        "website": "https://www.motherearthcoin.org"
+		}
+    },
     {
       "chainId": 101,
       "address": "72VTRtQ6dBfsRzqSNPN5Ws9Bk6GEZCcMWm94oWiiYRiv",
